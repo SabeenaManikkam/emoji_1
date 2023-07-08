@@ -1,0 +1,81 @@
+/* .container{ 
+    border: 2px solid palevioletred;
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    margin-left: 50px;
+    padding:50px;
+    border-radius: 50%; 
+    /* border-radius: 60px 60px 60px 60px; */
+    /* box-shadow: 10px 10px 10px 10px black;
+ } */
+.eyes{
+    border:2px solid black;
+    height:100px;
+    width: 100px;
+    border-color: transparent transparent transparent transparent;
+    /* border-radius: 70px 50px 70px 70px ; */ 
+} 
+.leyes{
+    border:2px solid white;
+    height:40px;
+    width: 20px;
+    border-color: white transparent transparent transparent;
+    top: 160px;
+    left: 40px;
+    /* border-radius: 70px 50px 70px 70px ; */  
+}
+.face{
+    height:300px;
+    width: 300px;
+    background-color: yellow;
+    border-radius: 100%;
+
+
+}
+.reye{
+    height: 50px;
+    width:50px;
+    background-color: black;
+    position:absolute;
+    border-radius: 50%;
+    top: 80px;
+    left: 70px;
+}
+.leye{
+    height: 50px;
+    width:50px;
+    background-color: black;
+    border-radius: 50%;
+    position:absolute;
+    top: 80px;
+    left: 200px;
+
+}
+.mouth{
+    border:5px solid black;
+    height:30px;
+    width:110px;
+    background-color: black;
+    border-color: black black black black;
+    border-radius: 0px 0px 100px 80px ;
+    position: absolute; 
+    top: 200px; 
+    left: 100px;
+    overflow: hidden;
+} 
+
+
+
+
+
+  .tongue{  
+    background-color: palevioletred;
+    width: 100px;
+    height: 100px;
+    border-radius:100%;
+    top: 10px;
+    left: 30px;
+    position: absolute;
+    overflow: hidden;
+ }
